@@ -1,4 +1,4 @@
-var cacheName = 'hello-pwa';
+var cacheName = 'Beerus-pwa';
 var filesToCache = [
   '/',
   '/index.html',
