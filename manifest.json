@@ -1,0 +1,34 @@
+{
+  "name": "God Beerus",
+  "short_name": "Zenoh",
+  "icons": [{
+    "src": "https://root-southern-feeling.glitch.me",
+      "sizes": "128x128",
+      "type": "image/png"
+    }, {
+      "src": "https://root-southern-feeling.glitch.me",
+      "sizes": "144x144",
+      "type": "image/png"
+    }, {
+      "src": "https://root-southern-feeling.glitch.me",
+      "sizes": "152x152",
+      "type": "image/png"
+    }, {
+      "src": "https://root-southern-feeling.glitch.me",
+      "sizes": "192x192",
+      "type": "image/png"
+    }, {
+      "src": "https://root-southern-feeling.glitch.me",
+      "sizes": "256x256",
+      "type": "image/png"
+    }, {
+      "src": "https://root-southern-feeling.glitch.me",
+      "sizes": "512x512",
+      "type": "image/png"
+    }],
+  "lang": "en-US",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "blueviolet",
+  "theme_color": "lightblue"
+}
